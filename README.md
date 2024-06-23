@@ -20,12 +20,14 @@ In our experimentation and validation process, we conducted training runs for va
 
 <br>
 <img width="659" alt="50 epoch" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/37af4c59-553d-4a88-8f15-ff801e2dd289">
+
 ---
 
 **100 Epochs**:
 
 <br>
 <img width="304" alt="100 epoch" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/7dcf542f-c639-4939-a505-b203cd9e7749">
+
 ---
 
 **200 Epochs**:
