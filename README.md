@@ -16,17 +16,22 @@ The project includes experimentation and validation of CNN models trained for 50
 - Experimentation:
 In our experimentation and validation process, we conducted training runs for varying numbers of epochs to assess the performance of our model in Alzheimer's Disease (AD) detection. For the first set of experiments comprising 50 epochs, our model achieved a commendable accuracy of 91%. Subsequently, we extended the training duration to 100 epochs, resulting in a notable improvement as our model attained a perfect training accuracy of 100%, while the testing accuracy reached an impressive 95%. Encouraged by these promising results, we further extended the training duration to 200 epochs. Remarkably, our model's accuracy surged to an exceptional 99%, demonstrating the robustness and efficacy of our approach in effectively classifying different stages of AD with increasing training epochs. These findings underscore the significance of prolonged training durations in enhancing the model's ability to discern subtle patterns indicative of AD, thus showcasing the potential of our methodology in facilitating early detection and prognosis of the disease.
 
-**50 Epochs**:
+**50 Epochs** :
+
 <br>
-<img width="659" alt="50" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/81849824/1d025c4e-5f61-4600-bae7-94c9d8a3d4b5">
+<img width="659" alt="50 epoch" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/37af4c59-553d-4a88-8f15-ff801e2dd289">
 ---
+
 **100 Epochs**:
+
 <br>
-<img width="304" alt="100" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/81849824/ff247deb-3bbf-4b9d-ab24-b763c92400ea">
+<img width="304" alt="100 epoch" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/7dcf542f-c639-4939-a505-b203cd9e7749">
 ---
+
 **200 Epochs**:
+
 <br>
-<img width="658" alt="200" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/81849824/28346c99-95e9-4e0b-92fe-3c4e3274fabe">
+<img width="658" alt="200 epoch" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/29d7b6ed-bccb-4c2f-beb7-7fb008da2d66">
 ---
 ## Tools and Technologies Used
 - Language: Python
