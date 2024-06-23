@@ -5,6 +5,7 @@ Final Year Project | DYPIU 2024
 
 ## Overview
 This project investigates the potential of Convolutional Neural Networks (CNNs) in early Alzheimer’s Disease (AD) detection using Magnetic Resonance Imaging (MRI) scans. Starting with an overview of AD and its symptoms like memory loss and body imbalance, the study delves into how the model detects AD, focusing on hippocampal tissue shrinkage and increased white matter in the brain. By evaluating the CNN algorithm, factors such as accuracy, efficiency, cost-effectiveness, reliability, and upgradability are assessed to identify the best AD detection approach. The research employs CNNs in software engineering to develop a precise and early AD detection system using MRI scans, aiming to detect AD early and reduce healthcare costs while emphasizing data quality and robust model development.
+
 ---
 ## Expected Outcome
 The expected outcome is a highly accurate CNN model capable of effectively classifying different AD stages, providing better diagnostic tools for patients and healthcare providers. Utilizing a dataset of 5,000 MRI scans from the Alzheimer's Disease Neuroimaging Initiative (ADNI), the study achieves a testing accuracy of 95.17%, showcasing the effectiveness of CNNs in AD classification. This result represents a significant advancement in early detection methods for AD and highlights the transformative potential of machine learning in improving diagnostic practices and patient outcomes.
@@ -34,6 +35,7 @@ In our experimentation and validation process, we conducted training runs for va
 
 <br>
 <img width="658" alt="200 epoch" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/29d7b6ed-bccb-4c2f-beb7-7fb008da2d66">
+
 ---
 ## Tools and Technologies Used
 - Language: Python
