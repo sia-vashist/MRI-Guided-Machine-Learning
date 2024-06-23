@@ -70,9 +70,9 @@ In our experimentation and validation process, we conducted training runs for va
 
 **3. Misclassified Images Analysis** 
 
-<img width="563" alt="misclassified images" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/017940af-5014-47b0-868d-72f71da2b014">
+<img width="554" alt="misclassified images" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/017940af-5014-47b0-868d-72f71da2b014">
 
-<img width="455" alt="misclassified confusion matrix" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/2177a804-fcf4-45f7-a6e1-ab52ddb87211">
+<img width="431" alt="misclassified confusion matrix" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/2177a804-fcf4-45f7-a6e1-ab52ddb87211">
 
 Fined Tuned Model: We first identified misclassified images by comparing the predicted classes from our pre-trained model with the true classes. Then, we preprocessed these images and prepared them with their true labels for fine-tuning. We cloned the pre-trained model and fine-tuned it using the misclassified images, adjusting the model’s parameters to learn task-specific features while retaining previous knowledge. Finally, we optimized the model’s parameters using backpropagation to minimize the loss and improve accuracy.
 
