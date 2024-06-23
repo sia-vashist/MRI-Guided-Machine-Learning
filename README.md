@@ -85,7 +85,7 @@ Fined Tuned Model: We first identified misclassified images by comparing the pre
 ---
 
 # Credits:
-Invaluable thanks to the Alzheimer's Disease Neuroimaging Initiative (ADNI) for granting us access to their database, without which our project would not have been possible.
+Invaluable thanks to the **Alzheimer's Disease Neuroimaging Initiative (ADNI)** for granting us access to their database, without which our project would not have been possible.
 
 We express our deep sense of gratitude to our respected guide and coordinator Dr. Maheshwari Biradar, for her valuable help and guidance. We are thankful for the encouragement she has given us in completing this project successfully.
 
