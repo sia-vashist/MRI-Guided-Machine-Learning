@@ -57,6 +57,27 @@ In our experimentation and validation process, we conducted training runs for va
 ![Block Diagram](https://github.com/siavashist-tech/MRI-Guided-ML/assets/81849824/c0c75b52-49d8-47d1-a2df-e36702ba13a2)
 
 ---
+# Results:
+**1. Introduction to the CNN Model**
+- Model Architecture: SEQUENTIAL
+- Training Configuration: Trained with a learning rate scheduler and custom loss function.
+  <img width="233" alt="SEQUENTIAL" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/cb8f63dc-f73e-4da7-81b2-f0e3b6521f31">
+
+**2. Evaluation Metrics**
+<img width="371" alt="Evaluation Metrics" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/fe6d33dd-35be-4149-9932-0cf87dd26e18">
+
+**3. Misclassified Images Analysis** 
+<img width="563" alt="misclassified images" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/017940af-5014-47b0-868d-72f71da2b014">
+<img width="455" alt="misclassified confusion matrix" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/2177a804-fcf4-45f7-a6e1-ab52ddb87211">
+
+Fined Tuned Model: We first identified misclassified images by comparing the predicted classes from our pre-trained model with the true classes. Then, we preprocessed these images and prepared them with their true labels for fine-tuning. We cloned the pre-trained model and fine-tuned it using the misclassified images, adjusting the model’s parameters to learn task-specific features while retaining previous knowledge. Finally, we optimized the model’s parameters using backpropagation to minimize the loss and improve accuracy.
+
+**4. Correctly Classified Images**
+<img width="554" alt="correctly predicted" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/1808bc7c-dddb-4f15-8fe6-3b802863449f">
+<img width="431" alt="confusion matrix cnn" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/173622122/2912e950-ac96-4a7c-a956-b72c0d0a70f2">
+
+---
+
 # Credits:
 Invaluable thanks to the Alzheimer's Disease Neuroimaging Initiative (ADNI) for granting us access to their database, without which our project would not have been possible.
 
