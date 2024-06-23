@@ -1,7 +1,7 @@
 # MRI-Guided-Machine-Learning
 Final Year Project | DYPIU 2024
 
-# Project Title: MRI Guided ML: Early Detection & Alzheimers Forecating
+# Project Title: MRI Guided Machine Learning for Early Alzheimers Detection & Forecasting
 
 ## Overview
 This project investigates the potential of Convolutional Neural Networks (CNNs) in early Alzheimer’s Disease (AD) detection using Magnetic Resonance Imaging (MRI) scans. Starting with an overview of AD and its symptoms like memory loss and body imbalance, the study delves into how the model detects AD, focusing on hippocampal tissue shrinkage and increased white matter in the brain. By evaluating the CNN algorithm, factors such as accuracy, efficiency, cost-effectiveness, reliability, and upgradability are assessed to identify the best AD detection approach. The research employs CNNs in software engineering to develop a precise and early AD detection system using MRI scans, aiming to detect AD early and reduce healthcare costs while emphasizing data quality and robust model development.
