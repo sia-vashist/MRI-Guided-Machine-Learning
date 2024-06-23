@@ -18,15 +18,15 @@ In our experimentation and validation process, we conducted training runs for va
 
 **50 Epochs**:
 <br>
-<img width="659" alt="50" src="https://github.com/siavashist-tech/MRI-Guided-ML/assets/81849824/1d025c4e-5f61-4600-bae7-94c9d8a3d4b5">
+<img width="659" alt="50" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/81849824/1d025c4e-5f61-4600-bae7-94c9d8a3d4b5">
 ---
 **100 Epochs**:
 <br>
-<img width="304" alt="100" src="https://github.com/siavashist-tech/MRI-Guided-ML/assets/81849824/ff247deb-3bbf-4b9d-ab24-b763c92400ea">
+<img width="304" alt="100" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/81849824/ff247deb-3bbf-4b9d-ab24-b763c92400ea">
 ---
 **200 Epochs**:
 <br>
-<img width="658" alt="200" src="https://github.com/siavashist-tech/MRI-Guided-ML/assets/81849824/28346c99-95e9-4e0b-92fe-3c4e3274fabe">
+<img width="658" alt="200" src="https://github.com/sia-vashist/MRI-Guided-Machine-Learning/assets/81849824/28346c99-95e9-4e0b-92fe-3c4e3274fabe">
 ---
 ## Tools and Technologies Used
 - Language: Python
