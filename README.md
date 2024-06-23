@@ -93,4 +93,4 @@ The report of this major project could not have been accomplished without the pe
 
 We are also grateful to our respected Director, Dr. Bahubali Shiragapur, and Hon’ble Vice Chancellor, DYPIU, Akurdi, Prof. Prabhat Ranjan, for permitting us to utilize all the necessary facilities of the college.
 
-Lastly, thank you to my teammates Siddhant Adsule and Vaishnavi Khade for your coordination and helpful support in the collaborative project.
+Lastly, thank you to my teammates Siddhant Adsule and Vaishnavi Khade for your coordination and helpful support in this collaborative project.
